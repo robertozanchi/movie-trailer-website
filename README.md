@@ -16,7 +16,7 @@
   1) Install Google App Engine
   https://cloud.google.com/appengine/docs/python/gettingstartedpython27/introduction
 
-  2) Uncompress the folder Roberto-movie-trailer-website.zip
+  2) Save the files included in https://github.com/robertozanchi/movie-trailer-website
 
   3) Load the web application into Google App Engine using File > Add
   New Application > Browse. After selecting the uncompressed version of the
